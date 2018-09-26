@@ -2,8 +2,10 @@
   "name": "lyricsapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://davi13.github.io/lyrycsapp/.",
   "dependencies": {
     "axios": "^0.18.0",
+    "gh-pages": "^2.0.0",
     "moment": "^2.22.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
@@ -14,6 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d dist",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
