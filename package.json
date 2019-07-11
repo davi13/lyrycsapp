@@ -4,14 +4,14 @@
   "private": true,
   "homepage": "https://davi13.github.io/lyrycsapp/",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.19.0",
     "gh-pages": "^2.0.0",
     "moment": "^2.22.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-moment": "^0.7.9",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.5"
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
