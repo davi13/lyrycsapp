@@ -1,6 +1,15 @@
 {
-  "main.css": "static/css/main.d41d8cd9.css",
-  "main.css.map": "static/css/main.d41d8cd9.css.map",
-  "main.js": "static/js/main.b4c3bf96.js",
-  "main.js.map": "static/js/main.b4c3bf96.js.map"
+  "files": {
+    "main.css": "/lyrycsapp/static/css/main.36497136.chunk.css",
+    "main.js": "/lyrycsapp/static/js/main.e55557ba.chunk.js",
+    "main.js.map": "/lyrycsapp/static/js/main.e55557ba.chunk.js.map",
+    "runtime~main.js": "/lyrycsapp/static/js/runtime~main.feb6b863.js",
+    "runtime~main.js.map": "/lyrycsapp/static/js/runtime~main.feb6b863.js.map",
+    "static/js/2.1bcf467a.chunk.js": "/lyrycsapp/static/js/2.1bcf467a.chunk.js",
+    "static/js/2.1bcf467a.chunk.js.map": "/lyrycsapp/static/js/2.1bcf467a.chunk.js.map",
+    "index.html": "/lyrycsapp/index.html",
+    "precache-manifest.3e154dde3d7e58355559695588cad290.js": "/lyrycsapp/precache-manifest.3e154dde3d7e58355559695588cad290.js",
+    "service-worker.js": "/lyrycsapp/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/lyrycsapp/static/css/main.36497136.chunk.css.map"
+  }
 }
